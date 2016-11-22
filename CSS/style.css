@@ -23,11 +23,12 @@ body{
 }
 
 #centreText {
-  position:absolute;
-  left:25px;
-  top:60px;
+  position: absolute;
+  left: 25px;
+  top: 60px;
   color:white;
-  font-size:300%;
+  font-size: 300%;
+  font-family: "Segoe UI", Arial, sans-serif;
 }
 
 .circle {
@@ -49,21 +50,22 @@ body{
 }
 
 #icon1label{
-	position:absolute;
+  position:absolute;
   left:-120px;
   top:-20px;
   font-size:200%;
+  font-family: "Segoe UI", Arial, sans-serif;
 }
 
 .branch{
-	position:absolute;
+  position:absolute;
   background-color:white;
   height:13px;
   
 }
 
 #branch1{
-	top:175px;
+  top:175px;
   left: 445px;
   width:120px;
   transform:rotate(60deg);
